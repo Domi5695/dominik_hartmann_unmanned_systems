@@ -6,4 +6,6 @@ This is a temporary script file.
 """
 
 if __name__== '__main__':
-    print("hello world")
+    print("WTF")
+    
+    
